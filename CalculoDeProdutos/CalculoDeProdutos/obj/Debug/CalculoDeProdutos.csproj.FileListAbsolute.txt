@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\ESTUDOS\C#\CalculoDeProdutos\CalculoDeProdutos\bin\Debug\CalculoDeProdutos.exe.config
+C:\Users\usuario\Desktop\ESTUDOS\C#\CalculoDeProdutos\CalculoDeProdutos\bin\Debug\CalculoDeProdutos.exe
+C:\Users\usuario\Desktop\ESTUDOS\C#\CalculoDeProdutos\CalculoDeProdutos\bin\Debug\CalculoDeProdutos.pdb
+C:\Users\usuario\Desktop\ESTUDOS\C#\CalculoDeProdutos\CalculoDeProdutos\obj\Debug\CalculoDeProdutos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\CalculoDeProdutos\CalculoDeProdutos\obj\Debug\CalculoDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\C#\CalculoDeProdutos\CalculoDeProdutos\obj\Debug\CalculoDeProdutos.exe
+C:\Users\usuario\Desktop\ESTUDOS\C#\CalculoDeProdutos\CalculoDeProdutos\obj\Debug\CalculoDeProdutos.pdb
